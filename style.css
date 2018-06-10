@@ -39,3 +39,8 @@ h4 {
 h5 {
   font-size: 1.8rem;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
